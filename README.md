@@ -41,5 +41,5 @@ A simple and interactive **Quiz Application** built with **React** that allows u
 
 - **React** – Frontend library for building UI
 - **JavaScript** – Programming language
-- **CSS / Tailwind CSS** – Styling the application (if applicable)
+- **Tailwind CSS** – Styling the application
 
