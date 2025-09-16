@@ -1,12 +1,45 @@
-# React + Vite
+# Quiz App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive **Quiz Application** built with **React** that allows users to answer multiple-choice questions and see their score at the end.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- Interactive multiple-choice questions
+- Score tracking for correct answers
+- Simple and responsive UI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Installation
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/zanyKhan/quiz_app.git
+
+2. Navigate to the project folder
+   ```bash
+   cd quiz-app
+3. Install dependencies
+   ```bash
+   npm install
+4. Start the application
+   ```bash
+   npm run dev
+  The app will run on http://localhost:5173/
+
+## Usage
+
+1. Open the app in your browser.
+2. Answer the questions by clicking on the options.
+3. The app will show your score after the last question.
+
+---
+
+## Technologies Used
+
+- **React** – Frontend library for building UI
+- **JavaScript** – Programming language
+- **CSS / Tailwind CSS** – Styling the application (if applicable)
+
