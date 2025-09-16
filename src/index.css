@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+.correct{
+    @apply bg-[#dffff2] border-[#00d397]
+}
+.wrong{
+    @apply bg-[#ffebeb] border-[#ff4a4a]
+}
